@@ -2,5 +2,4 @@
 Pong++ is a clone of the famous arcade game, Pong. Rewritten in C++.
 
 ## How to use
-You can use Make to compile the files, or you can just download the exe from the releases. 
-This is only available on Windows unfortunately, but with some editing you can run it on mac/linux.
+You can compile the game yourself by cloning this repo and using Make to compile the file, or you can go to releases and download the game from there.
