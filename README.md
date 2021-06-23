@@ -11,8 +11,8 @@ Pong++ is a clone of the famous arcade game, Pong. Rewritten in C++.
 After that it should be installed.
 
 **Linux**
-1. Open main.cpp remove these lines: #include "<Windows.h>", and "::ShowWindow(::GetConsoleWindow(), SW_HIDE);".
-2. Clone this repo
+1. Clone this repo
+2. Open main.cpp remove these lines: #include "<Windows.h>", and "::ShowWindow(::GetConsoleWindow(), SW_HIDE);".
 3. Open the directory the game is located in your terminal and run "make".
 
 After that it should be installed.
