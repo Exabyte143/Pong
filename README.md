@@ -17,3 +17,5 @@ After that it should be installed.
 
 After that it should be installed.
 
+## How to play
+Use WS to control Player1 and ↑↓ to control Player2.
